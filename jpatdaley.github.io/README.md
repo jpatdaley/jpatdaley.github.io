@@ -1,1 +1,0 @@
-# jpatdaley.github.io
