@@ -6,4 +6,4 @@ On each board the player's performance is tracked by a score monitor, which incr
 
 Players can navigate site primarily from the index page, but each board also provides a drop down menu which directs them to the index page and offers the ability to restart the game of their current board. 
 
-I will be continuously updating this game throughout my time in the Per Scholas program. I verged from my original wireframe (https://wireframe.cc/yvsIEJ) due to conflicts with my current understanding of Javascript, so as time goes on I'll likely attempt to merge the various HTML pages into one. 
+I will be continuously updating this game throughout my time in the Per Scholas program. I verged from my original wireframe (https://wireframe.cc/gl1hrQ) due to conflicts with my current understanding of Javascript, so as time goes on I'll likely attempt to merge the various HTML pages into one. 
